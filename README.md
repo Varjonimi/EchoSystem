@@ -13,11 +13,30 @@ There are a lot of different methods of guiding a thesis to its goal. The offici
 
 ## Tools
 
+
+### Evaluation form/tool
+
 One tool used for evaluation can be found [here](http://student.labranet.jamk.fi/~sahka/ont/feedback_generator_amk.php). Source code is available [here](https://github.com/sahkaman/JAMK-theses-evaluation-tool).
 
-An attempt of an evaluation environment was released as an thesis itself by  [Ville Hietakangas in Thesis Management System](https://www.theseus.fi/bitstream/handle/10024/112089/Hietakangas_Ville.pdf?sequence=1). Source code is available [here](http://student.labranet.jamk.fi/~sahka/taustamateriaali/ThesisManagerSources.zip).
+### Thesis Management -system
+
+An attempt of an evaluation environment ("ProtoType") was released as an thesis itself by  [Ville Hietakangas in Thesis Management System](https://www.theseus.fi/bitstream/handle/10024/112089/Hietakangas_Ville.pdf?sequence=1). Source code is available [here](http://student.labranet.jamk.fi/~sahka/taustamateriaali/ThesisManagerSources.zip).
 
 These two tools haven't been combined... but the vision is that they should...
+
+# User Stories/Tasks (from the perspective of the orderer)
+
+## Task: Each of the groups should get familiar of the thesis process
+
+## Story: I want an description of roles connected to the evaluation of a thesis
+
+## Task: I want each of the groups to get familiar with the tool placed [here](https://github.com/sahkaman/JAMK-theses-evaluation-tool).
+
+## Story: As a thesis instructor I want individual links to each of the evaluators.
+
+Each evaluator can fill in his/her own evaluation and the thesis instructor can summarize them in one view
+
+## story x
 
 # Questions?
 You can ask questions from Karo Saharinen in slack @ http://jamk-it.slack.com/ from user sahka
