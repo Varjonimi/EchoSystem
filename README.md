@@ -23,9 +23,9 @@ An attempt of an evaluation environment ("ProtoType") was released as an thesis 
 
 These two tools haven't been combined... but the vision is that they should...
 
-# Saharinen explains the problem
+# Saharinen explains the problem to 1st year students
 
-In this [link.](https://www.youtube.com/watch?v=XwVpTjXhjJM)
+In this [link.](https://www.youtube.com/watch?v=XwVpTjXhjJM) 
 
 # User Stories/Tasks (from the perspective of the orderer)
 
