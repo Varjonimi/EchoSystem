@@ -46,5 +46,37 @@ You can ask questions from Karo Saharinen in slack @ http://jamk-it.slack.com/ f
 
 I'll answer them here later on...
 
-## question x
-answer y
+## Ketkä arvioivat opinnäytetyön? Eli siis keillä tarvitsee olla oikeudet opinnäytetyön arviointilomakkeen täyttämiseen.
+1. ohjaaja, 2.ohjaaja, vertaisarvioija, itsearvioija, tilaaja
+
+##Onko eri henkilöiden arvosteluiden keskinäisellä järkestyksellä väliä? Jos on, missä järjestyksessä arvostelijat arvostelevat?
+ei
+
+##Mitä koko opinnäytetyöprosessista on jo ehdottomasti oltava tehtynä ennen kuin opinnäytetyö menee arviointiin? Onko seminaari, kypsyysnäyte, ja Urgund hoidettava ennen arviointia?
+opinnäytetyön tiedosto versioon 0.999999... urkund, kypsäri & seminaari eivät ole välttämättömiä arviointiin... kielentarkastus on
+
+##Mitä arviointiprosessista tulee ulos ja kuka ne sieltä tulostaa? Linkkejä tms?
+arviointiprosessista tulee ulos lomakkeita tällä hetkellä... ks. 1 x https://opinto-oppaat.jamk.fi/globalassets/opinto-opas-amk/opiskelu/opinnaytetyo/arviointi/tyoelaman-ohjaajan-arviointi-opinnaytetyosta.pdf, 1 x https://opinto-oppaat.jamk.fi/globalassets/opinto-opas-amk/opiskelu/opinnaytetyo/arviointi/opinnaytetyon-itsearviointi.pdf, 3 x https://opinto-oppaat.jamk.fi/globalassets/opinto-opas-amk/opiskelu/opinnaytetyo/arviointi/vertaisarvioijan-arviointi-opinnaytetyosta.pdf
+
+##Keiden tarvitsee nähdä arviointiprosessi?
+1.ohjaajan & 2.ohjaajan... itsearvioijan & tilaajan tarvitsee nähdä, että hän on palauttanut arvionsa (esim "arvostelulinkki sulkeutunut ja arviointi tehty")... todennäköisesti järjestelmässä on myös koulutusvastaava,koulutuspäällikkö,opintosihteeri & admin, jotka tietenkin voivat töitä selailla (:sweat_smile:)
+
+##Eroavatko eri alojen arviointikriteerit?
+käytännössä JAMK:ssa on julkaistu https://opinto-oppaat.jamk.fi/globalassets/opinto-opas-amk/opiskelu/opinnaytetyo/arviointi/opinnaytetyon-arviointikriteerit-amk2014.pdf ja sitä pitää noudattaa... en voi vannoa jokaisen alan&ohjaajan puolesta, että näin todellisuudessa tapahtuuu... yhteinen tietokonejärjestelmä käytännössä pakottaisi käyttämään............
+
+##Vertaisarvionti on se, että toinen opiskelija antaa arvionnin harjoitustyöstä?
+Kyllä
+
+##Kuka on lopullinen ryhnä, jotka antavat arvionnin? Ketkä kuuluvat siihen.
+opinnäytetyöryhmään kuuluu IT-instituutin henkilöstö
+
+##tehdäänkö muuten itsearviointi, vertaisarviointi & tilaajanarviointi ennen kuin ohjaajat alkavat tekemään lausuntoa? Vai tulee valmis opinnäytetyö tietokantaan ja kaikki käy milloin haluavat tekemässä osuutensa siihen?
+1. & 2. ohjaaja tekee arvioinnit muiden kanssa samaan aikaan... kun 5 arviointia niin sitten muodostetaan lausunto
+
+##Kun ryhnmä kokoontuu antamaan viimeistä arvosanaa, niin onko ryhmä kokoontunut fyysisesti jonnekin? Vai käydäänkö tämä ryhmäkeskustelu ja mietteiden vaihto verkon ylitse?
+kokoontuu fyysisesti
+
+arvosana merkataan opinnäytetöiden exceliin (:cold_sweat:) ja exceli hyväksytetään kokouksessa... opintotoimisto siirtää excelistä hyväksytyt työt asioon.... lisäksi paperilla oleva lausunto allekirjoitetaan 1., 2. ja opinnäytetyöryhmän puheeenjohtajan toimesta... kopio lausunnosta liitetään tutkintotodistukseen liitteeksi
+
+##eli, kuinka suureen käyttöön tämä arviointityökalu nyt olisi tarkoitettu? koko jamkille? lähinnä pitäisi tietää että kuinka monta opinnäytetyötä noin suurinpiirtein tulee kuukausittain (use casea tekemässä)
+Oiskoha ~200/kk aihe-ehdotuksia... Täysi hihaheitto ku ei oo mitää mitattua dataa tähän mennessä aiheesta
